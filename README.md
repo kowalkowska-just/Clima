@@ -32,3 +32,11 @@ With this application you will be able to check the weather for the current loca
 <p align = "center">
 <img width = "1000" src = "https://user-images.githubusercontent.com/67439169/86262222-e4344580-bbbf-11ea-9c6d-bb98218f79c9.png">
 </p>
+
+### Now the application is set in Polish, but if you want to get the output in your language. 
+Translation is applied for the city name and description fields. You must to change URL as show below. 
+Example shows how to change the language to English.
+More information on API documentation: https://openweathermap.org/current
+<p align = "center">
+<img width = "1000" src = "https://user-images.githubusercontent.com/67439169/86268707-dfc05a80-bbc8-11ea-9f4b-cb3b7cc78d6e.png">
+</p>
